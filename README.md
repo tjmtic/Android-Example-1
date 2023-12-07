@@ -1,4 +1,4 @@
-# NYT Live Search Example
+# NYT Live Data Example
 ## Instructions
 The app opens the wrong article when it is clicked. With a unit test to cover the problem and fix the
 issue.
