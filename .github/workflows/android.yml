@@ -19,7 +19,7 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
         cache: gradle
-    - name: Grant execute permission for gradlew with edit
+    - name: Grant execute permission for gradlew with edit 2
       run: chmod +x gradlew
     - name: Build Debug APK
       run: ./gradlew assembleDebug
