@@ -1,6 +1,6 @@
 # NYT Live Data Example
 ## Instructions
-The app opens the wrong article when it is clicked. With a unit test to cover the problem and fix the
+The app opens the wrong article when it is clicked. With a unit test to cover a problem and fix the
 issue.
 
 ## App Overview
